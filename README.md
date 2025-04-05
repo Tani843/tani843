@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello world!, I'm Tanisha, a Pasionate Data Analyst/ Scientist 👩‍💻
 ## 👩‍💻 About Me<br><br>🌱 I’m currently learning:  <br>Machine Learning, AI Model Optimization, and Cloud-based Data Engineering.<br><br>📊 I’m currently working on:  <br>Improving fraud detection with deep learning models, Power BI dashboards, and SQL-driven analytics.<br><br>🤝 I’m looking to collaborate on:  <br>Open-source data science projects, research-based AI/ML work, or Kaggle competitions.<br><br>💬 Ask me about:  <br>Python, SQL, Power BI, Deep Learning, and Emotion Detection Models.<br><br>👀 I’m looking for help with:  <br>Real-time model deployment and large-scale data optimization (especially using GCP or AWS).<br><br>⚡ Fun fact:  <br>I once built an epidemic simulation model using differential equations during my undergrad, and I love turning math into real-world impact!<br><br>📬 How to reach me:  <br>[LinkedIn](https://www.linkedin.com/in/tanishagupta008/) | Email: tanishagupta008@gmail.com<br>
 
 
